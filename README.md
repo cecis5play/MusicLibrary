@@ -5,7 +5,7 @@ The Music Library app is a Single Page Application (SPA) that enables users to b
 💻 About the App
 This app provides a streamlined platform for managing a music album catalog. It allows users to browse albums, and authenticated users can add, update, or remove album entries.
 
-  💡 Features
+&emsp;  💡 Features
     Browse Albums: A rich catalog of music albums, with details including artist, album title, record label, and sales data.
     Manage Albums: Authenticated users can add new albums, edit existing ones, or delete albums from the catalog.
     Dynamic Catalog: Easily browse and explore the album collection.
