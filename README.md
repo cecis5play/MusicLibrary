@@ -73,7 +73,11 @@ The Music Library app is a Single Page Application (SPA) that enables users to b
       *🟢 200 OK: The album was successfully deleted.<br/>
       🔴 404 Not Found: No album was found with the provided ID.*<br/>
       <br/>
-    **🔒Authentication**<br/>
+      <br/>
+![alt text](https://github.com/cecis5play/MusicLibrary/blob/main/image3.png?raw=true)
+     <br/>
+      
+**🔒Authentication**<br/>
       *Some actions, such as adding, updating, or deleting albums, require an authentication token. The token must be included in the request header as follows:*<br/>
       <br/>
 
