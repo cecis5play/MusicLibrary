@@ -73,5 +73,5 @@ The Music Library app is a Single Page Application (SPA) that enables users to b
 Authorization: Bearer <your_token_here><br/>
 Without a valid token, these actions will be restricted.<br/>
 
-![alt text](https://github.com/cecis5play/MusicLibrary/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/cecis5play/MusicLibrary/blob/main/image.png?raw=true)
 
