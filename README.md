@@ -1,6 +1,10 @@
 # Music Library 🎧
 
-The Music Library app is a Single Page Application (SPA) that enables users to build, browse, and manage an album catalog. 🎸🎼 This program offers a simple and effective way to work with music album data, regardless of whether you're a curator overseeing a collection or a music enthusiast looking to explore records.
+The Music Library app is a Single Page Application (SPA) that enables users to build, browse, and manage an album catalog. 🎸🎼 This program offers a simple and effective way to work with music album data, regardless of whether you're a curator overseeing a collection or a music enthusiast looking to explore records.<br/>
+<br/>
+![alt text](https://github.com/cecis5play/MusicLibrary/blob/main/image.png?raw=true)<br/>
+<br/>
+![alt text](https://github.com/cecis5play/MusicLibrary/blob/main/image2.png?raw=true)
 
 &nbsp; **💻 About the App**<br/>
 *This app provides a streamlined platform for managing a music album catalog. It allows users to browse albums, and authenticated users can add, update, or remove album entries.*<br/>
@@ -72,6 +76,4 @@ The Music Library app is a Single Page Application (SPA) that enables users to b
 
 Authorization: Bearer <your_token_here><br/>
 Without a valid token, these actions will be restricted.<br/>
-
-![alt text](https://github.com/cecis5play/MusicLibrary/blob/main/image.png?raw=true)
 
